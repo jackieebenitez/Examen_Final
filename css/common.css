@@ -1,0 +1,88 @@
+
+/* Comienza trabajo de Mariana Pacheco Sección Portfolio */
+.boton-solido{		/* Atributos del botón izquierdo del banner */
+	width: 20%;
+	height: 40px;
+	background-color: #5F5E5E;
+	border: 0px solid #5F5E5E;
+	font-size: 14px;
+	cursor: pointer;
+	margin-left: 75%;
+ }
+ .boton-transparente{		/* Atributos del botón derecho del banner */
+	width: 20%;
+	height: 40px;
+	background:rgba(0,0,0,0.2);
+	border: 0px solid rgba(0,0,0,0.2);
+	font-size: 14px;
+	cursor: pointer;
+	margin-right: 20%;
+ }
+ .boton-callto{
+ 	width: 20%;
+	height: 30px;
+	background:rgba(0,0,0,0.2);
+	border: 0px solid rgba(0,0,0,0.2);
+	font-size: 14px;
+	cursor: pointer;
+ }
+.mt-1{
+	margin-top: 1%;
+}
+.btn-white{			/* Botón blanco sección portfolio */
+	background-color: #ffffff;
+	width: 100px;
+	height: 40px;
+	border: 0px solid #fff;
+	font-size: 14px;
+	cursor: pointer;
+	font-weight: bold;
+	text-align: center;
+}
+.text-black{
+	color:#000;
+}
+button:hover{		/* Transición de color y borde del botón cuando se posiciona el cursor sobre él */
+ background-color: #1FBFB3;
+ color: #fff;
+ box-shadow: inset 0 0 0 3px #fff;
+}
+.mt-5{
+	margin-top: 5%;
+}
+.transparencia{		/* Transparencia para oscurecer la imagen */
+	height:00px;
+	background: rgba(0,0,0,0.6);
+}
+.p-margin{
+	margin: 2% 13% 4% 13%;
+}
+.icon-margin{
+	margin: 2% 1% 2% 1%;
+}
+#icon-left{
+	margin-left: 40%;
+}
+/* Termina trabajo de Mariana Pacheco Sección Portfolio */
+
+/*TERMINA JACKIE*/
+ /*Tipografía para todos los h2*/
+h2{
+	font-family: 'Open Sans', sans-serif;
+}
+/*Tipografía para todos los h3*/
+h3{
+	font-family: 'Open Sans', sans-serif;
+}
+/*Todos los <p> llevan este estilo de tipografía*/
+p{
+	font-size: 13px;
+	font-family: 'Open Sans', sans-serif;
+	color: #888;
+}
+.radius{
+	width:10%;
+	height: 10%;
+	border-radius: 100px;
+}
+/*TERMINA JACKIE*/

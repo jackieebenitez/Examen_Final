@@ -1,0 +1,224 @@
+/*INICIA MARIANA*/
+.bg-principal{		/* Background banner principal */
+	background-image: url("../img/background/hero.jpg");
+ 	height: 650px;
+ 	background-position: center top; 
+ 	background-size: cover;
+	background-repeat: no-repeat;
+ }
+
+ .primes{
+ 	color:#ffffff;
+ }
+
+ .li-menu{		/* Estilos del menu */
+	margin: 13px 0px 0px 50px;
+	display: inline-block;
+	font-size: 18px; 
+	font-family: 'Open Sans', sans-serif;
+}
+
+.ul-menu{
+	margin-left: 30%;
+}
+
+.cont-logo{
+	margin-left: 30%;
+}
+
+body {		/* No aparezca la barra de deslazamiento horizontal */
+   overflow-x: hidden;
+}
+
+a{		/* Links sin decoracion */
+	text-decoration: none;
+}
+
+a:visited{
+	color:#fff;
+}
+
+.big{
+	font-size: 60px;
+	margin-top: 15%;
+}
+
+.p-16{
+	font-size: 16px;
+}
+
+.pd-2{
+	padding: 2%;
+}
+
+.contenedor{
+	padding: 2%;
+	width: 82%;
+ 	height: 70%;
+ 	background-color: #fff;
+ 	margin-top: 5%;
+}
+
+.image-portfolio{
+	width: 100%;
+	height: 100%;
+}
+
+.ml-20{
+	margin-left: 20%;
+}
+
+.m-b{		/* Margin boton load more seccion portfolio */
+	margin-left: 93%;
+}
+
+.bg-im{
+	background-image: url("../img/background/contactus.jpg");
+ 	height: 600px;
+ 	background-position: center top; 
+ 	background-size: cover;
+	background-repeat: no-repeat;
+	margin:0px;
+	max-width: 100%;
+}
+
+#trans-contact{
+	height: 900px;
+}
+
+#back-gris-alto{
+	height: 100%;
+}
+
+.mr{
+	margin-right: 20%;
+}
+
+.p-contact{		/* Estilo del texto Contactanos */
+ 	font-size: 24px;
+ 	font-weight: bold;
+ 	margin-bottom: 20px;
+ 	margin-left: 10%;
+ }
+
+form{		/* Estilo etiqueta form */
+	width: 700px;
+	margin: auto;
+	padding: 10px 150px;
+	box-sizing: border-box;
+	margin-top: 20px;
+}
+
+input, textarea{		/* Estilo de las cajas de texto (nombre email y mensaje) */
+ 	width: 100%;
+ 	margin-bottom:20px;
+ 	padding: 7px;
+ 	box-sizing: border-box;
+ 	font-size: 17px;
+ 	background: #fff;
+ 	opacity: .15;
+ 	border:0px;
+ }
+
+ textarea{		/* Estilo del area de mensaje */
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 100%;
+ }
+
+ #boton{			/* Boton formulario */
+ 	background-color: #1FBFB3;
+ 	padding: 10px;
+ 	color: #fff;
+ 	width: 30%;
+ 	border:0px;
+ }
+
+ #boton:hover{		/* Boton formulario */
+ 	cursor: pointer;
+ }
+
+.pd{		/* Espacio footer */
+	padding: 1% 0% 1% 1%;
+ }
+/*TERMINA MARIANA*/
+/*INICIA JACKIE*/
+.back-gris{
+	background-color: #e1e1e1;
+	height:300px;
+	padding-top:4%;
+	margin:0px;
+}
+.backgris{
+	background-color: #e1e1e1;
+}
+/*Background laptop "More Features"*/
+.laptop{
+	background-image: url("../img/laptop.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center top;
+	margin-left:0px;
+	max-width: 100%;
+    height:600px;
+    background-color: #e1e1e1;
+}
+/*Background Ciudad */
+.ciudad{
+	background-image: url("../img/background/city.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center rights;
+	margin-left:0px;
+	max-width: 100%;
+    height:450px;
+}
+/*Cuadros Pricing*/
+.cuadro-gris{
+	background-color: #888;
+	height:100px;
+	width:250px;
+	margin-left:5px;
+	margin-top: 20px;
+}
+.cuadro-rosa{
+	background-color: #e1e1e1;
+	height:100px;
+	width:250px;
+	margin-left:5px;
+}
+.cuadro-blanco{
+	background-color:white;
+	height:550px;
+	width:300px;
+	padding:20px;
+	margin:10px;
+	margin-left:50px;
+}
+.cuadro-azul{
+	background-color: #00D2FF;
+	height:100px;
+	width:250px;
+	margin-left:5px;
+	margin-top: 20px;
+}
+.boton-solido1{
+	background-color: #5F5E5E;
+	border: 0px solid #5F5E5E;
+	font-size: 16px;
+	cursor: pointer;
+	margin-left: 5%;
+	margin-top: 10%;
+	width:100px;
+	height:50px;
+}
+hr{
+	width:250px;
+	margin-left:20px;
+}
+footer{
+	background:#4d4d4d;
+	height:70px;
+}
+/*TERMINA JACKIE*/
+
